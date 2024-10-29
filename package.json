@@ -1,0 +1,15 @@
+{
+  "name": "mydubottemplate",
+  "version": "1.0.0",
+  "description": "A template for a myDUDiscordBot",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himori",
+  "license": "ISC",
+  "dependencies": {
+    "@sapphire/framework": "^5.2.1",
+    "pg": "^8.13.1"
+  }
+}

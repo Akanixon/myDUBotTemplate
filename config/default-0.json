@@ -1,0 +1,22 @@
+{
+    "dualDB": {
+        "host": "localhost",
+        "user": "dual",
+        "password": "dual",
+        "database": "dual",
+        "port": 5432
+    },
+    "discord": {
+        "token": ""
+    },
+    "orleans": "http://127.0.0.1:30111",
+    "myDUBot": {
+        "ID": 10041,
+        "name": "[Discord]",
+        "messageRelay": {
+            "discordGeneralChannelID": "1277307527985627259", 
+            "discordSupportChannelID": "1297111835933409320",
+            "allowedRoles": ["1297138949567021076"]
+        }
+    }
+}
