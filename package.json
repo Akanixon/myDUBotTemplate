@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@sapphire/framework": "^5.2.1",
+    "config": "^3.3.12",
     "pg": "^8.13.1"
   }
 }
